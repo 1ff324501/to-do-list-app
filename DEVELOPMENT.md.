@@ -1,0 +1,10 @@
+# Documentação do Desenvolvimento
+
+## Desafios
+- Configurar a sincronização do repositório com o GitHub.
+- Resolver conflitos durante o merge das branches.
+
+## Benefícios do Git
+- Uso de branches para organizar o trabalho.
+- Registro histórico claro com commits descritivos.
+- Facilidade de reverter alterações erradas.
